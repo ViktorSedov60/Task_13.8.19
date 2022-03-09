@@ -8,6 +8,6 @@ for i in range(1, N+1):
       result += 990
     elif age >= 25:
       result += 1390
-    else:
+
 print(f"сумма к оплате - {result}  рублей")
 
